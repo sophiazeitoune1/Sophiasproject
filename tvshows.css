@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+body{
+  
+    background: linear-gradient(to right, black ,white , black);
+    }
+    h2{
+    font-family: 'Jim Nightshade', cursive;
+    background-color:#6600ff;
+    text-align: center;
+    border: 7px solid gray;
+    margin-top: -100px;
+    line-height:35px;
+    width: 30%;
+    left:0;
+    margin:auto;
+    font-size:30px;
+}
+.grow {
+    background-color:#f45042;
+    width:25%;
+    height:55%;
+    text-align:center;
+    margin: 0 auto;
+    color:white ;
+    
+}
+.grow:hover{
+    -webkit-transform: scale(2.0);
+    -ms-transform: scale(2.0);
+    transform: scale(2.0);
+}
+a:visited{
+    font-size:40px;
+    color:yellow;
+}

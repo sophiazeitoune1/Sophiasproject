@@ -1,0 +1,32 @@
+@import url('hps://fonts.googleapis.com/css?family=Fascinate+Inline');
+h1 {
+    font-family: 'Fascinate Inline', cursive;
+    background-color:#e03506;
+    text-align: center;
+    border: 7px solid black;
+    margin-top: -100px;
+    line-height:35px;
+    width: 40%;
+    left:0;
+    margin:auto;
+    text-align:center
+}
+body{
+    background: linear-gradient(to right, white ,black, white);
+}
+.weekend {
+    display: table;
+    background-color:#cc577a;
+    color:purple;
+    font-size: 40px;
+    text-align:center;
+    margin: 0 auto;
+}
+.weekend:hover {
+    background-color:#2b2668;
+    font-size:30px;
+}
+a:visited{
+    font-size:40px;
+    color:yellow;
+}
